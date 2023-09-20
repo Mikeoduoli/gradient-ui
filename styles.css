@@ -21,7 +21,8 @@ body{
     height: 600px;
     padding:60px 35px 35px 35px;
     border-radius: 40px;
-    background-image: url("neon.jpg");
+    background: url(neon.jpg);
+    background-size: contain;
     box-shadow: 13px 13px 20px #0ae0ab, 
         -13px -13px 20px #971fdd;
 }
